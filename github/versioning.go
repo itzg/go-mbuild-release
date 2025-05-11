@@ -2,8 +2,8 @@ package github
 
 import (
 	"fmt"
-	"go-mbuild-release/stages"
-	"go-mbuild-release/versioning"
+	"github.com/itzg/go-mbuild-release/stages"
+	"github.com/itzg/go-mbuild-release/versioning"
 )
 
 // NewVersioning creates a GitHub versioning if the configuration is available for it, returns nil otherwise

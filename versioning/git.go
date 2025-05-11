@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"
-	"go-mbuild-release/stages"
+	"github.com/itzg/go-mbuild-release/stages"
 )
 
 type GitVersioning struct {

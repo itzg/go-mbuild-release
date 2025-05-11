@@ -1,4 +1,4 @@
-module go-mbuild-release
+module github.com/itzg/go-mbuild-release
 
 go 1.24
 
